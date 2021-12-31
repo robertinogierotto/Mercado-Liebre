@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+.precios {
+    font-size: 18px;
+}
+.descYdescrip {
+    font-size: 16px;
+}
+.titulares {
+    font-size: 24px;
+}
+header {
+    background-color: #EAC926;
+}
+header img {
+    padding-left: 8%;
+    padding-top: 8%;
+    padding-bottom: 5%;
+    width: 40%;
+}
+header form {
+    padding-left: 5%;
+}
+.compra {
+    text-align: center;
+}
+.burger-menu {
+    background-color: #1259c3;
+    width: 20px;
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+    padding: 10px;  
+    font-size: 20px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+}
+a {
+    text-decoration: none;
+    text-align: left;
+}
+ul {
+    padding-left: 0%;
+}
+footer {
+    text-align: center;
+   
+}
+footer i {
+    color: #1259c3;
+    font-size: 2em;
+    text-align: center;
+}
+footer strong {
+    font-size: 16px;
+}
+footer p {
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.copy {
+    text-align: left;
+    font-size: 12px;
+    margin-left: 0%;
+}
